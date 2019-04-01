@@ -1,0 +1,2 @@
+# gambitoz.github.io
+SimpleProjects
